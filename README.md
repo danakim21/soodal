@@ -25,7 +25,7 @@ Soodal (수달) is derived from "수(soo)영장으로 달(dal)리자." It is a s
 
 ## Demo
 
-Here is a working [live demo](https://otters-pool.herokuapp.com/).
+Here is a working [live demo](https://otters-pool.herokuapp.com/), deployed with heroku.
 
 ## Screenshots
 
