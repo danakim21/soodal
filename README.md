@@ -77,6 +77,8 @@ List of features ready
 - Display details on a specific pool via https://otters-pool.herokuapp.com/pool/:id
 - Administrator features
   - Login and logout
+    - Username: supermanager@pool.com
+    - Password: abcd1234
   - Display statistics on pools
     - Total number of pools
     - Number of private, public, hotel pools
